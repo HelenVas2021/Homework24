@@ -1,0 +1,8 @@
+header{
+	background-color: aquamarine;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	font-size: 24px;
+	padding: 20px;
+}

@@ -1,0 +1,11 @@
+.sidebar{
+	font-size: 24px;
+	background-color: rgba(127, 127, 232, 0.769);
+	width: 25%;
+	right: 0;
+	height: 100%;
+}
+.sidebar ul{
+	width: 15%;
+	
+}
